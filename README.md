@@ -1,4 +1,4 @@
-# V-Dashboard
+# AquaSignal
 
 Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
 
@@ -6,7 +6,7 @@ Copied from https://github.com/tailwindcomponents/dashboard and converted to Vue
 
 ## Demo
 
-https://v-dashboard.vercel.app/
+https://AquaSignal.vercel.app/
 
 ![Demo](https://i.imgur.com/RqXxEHL.gif)
 

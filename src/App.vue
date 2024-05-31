@@ -16,3 +16,14 @@ const layout = computed(
     <router-view />
   </component>
 </template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 1.02rem;
+  font-weight: 400;
+  letter-spacing: 0.0em;
+}
+</style>
